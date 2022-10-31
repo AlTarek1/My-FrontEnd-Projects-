@@ -4,7 +4,7 @@
 <h4 align="center"></h4>https://ecommerce-lac-alpha.vercel.app/ </h4>
 <br />
 <h3>Made With :-</h3>
-<h4 align="center">Html Css Js ReactJs Sanity Stripe</h4>
+<h4 align="center">Html Css Js ReactJs NextJs Sanity Stripe</h4>
 <br />
 <h3>Repo :-</h3>
 <h4 align="center">https://github.com/AlTarek1/Ecommerce</h4>
