@@ -21,7 +21,7 @@
 <h4 align="center">https://github.com/AlTarek1/DashBoard-React</h4>
 <br />
 <br />
-# Small Projects
+#Small Projects
 <h2>(1) Forkify</h2>
 <h3>Live :-</h3>
 <h4 align="center">https://forkify-blond.vercel.app/</h4>
